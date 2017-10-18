@@ -3,7 +3,11 @@
 
 @import "{{ site.theme }}";
 
+
+style.css?v=8d4…7ad39910cc75:1
+.page-header {
     color: #eff0f1;
     text-align: center;
     background-color: #0c5490;
     background-image: linear-gradient(120deg, rgba(155, 55, 156, 0.95), #bfb02f);
+}
