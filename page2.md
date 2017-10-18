@@ -1,2 +1,2 @@
 <section class="page-header">
-<h1 class="projectname2>Welcometopage2</h1>
+<h1 class="project-name>Welcometopage2</h1>
