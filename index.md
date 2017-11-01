@@ -39,7 +39,10 @@
     <th>Enlish</th>
     <th>Spanish</th>
     <th>German</th>
-  </tr>
+
+</table> 
+
+</tr>
   <tr>
     <td>Apple</td>
     <td>Manzana</td>
@@ -48,7 +51,7 @@
   <tr>
     
   
-</table>
+
 
 
 
