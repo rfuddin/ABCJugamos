@@ -8,5 +8,5 @@
 <h1>Welcome to Page 3</h1>
 
 <P>
-  <img src="img/cat.jpg" />
+  <img src="img/CAt.jpg" />
   </p>
