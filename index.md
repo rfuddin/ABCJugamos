@@ -7,7 +7,7 @@
 
 <h1> Language Learning with Me</h1>
 <h2> Section One: What you can learn in english. </h2>
-<p> Grammar, Listening, Flashcard. </h2>
+<p> Grammar, Listening, Reading & Writing. </h2>
 
 <hr>
 <h2>Learning Materials </h2>
