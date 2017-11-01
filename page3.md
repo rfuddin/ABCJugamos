@@ -6,3 +6,7 @@
   <li>Page 3</li>
 </ul>
 <h1>Welcome to Page 3</h1>
+
+<P>
+  <img src="img/cat.jpg" />
+  </p>
