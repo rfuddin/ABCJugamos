@@ -12,10 +12,9 @@
 <hr>
 <h2>Learning Materials </h2>
 <h3> Lists  </h3>
-<ol>
-  <li>Item 1<li>
+ <li>Item 1<li>
  <li>Item 2<li>   
-    </ol>
+ 
 
 <h4>UnOrdered lists hve bullets<h4>
 <ul>
