@@ -33,7 +33,7 @@
 <h3>Links and Images </h3>
 <p> First I am going to link to <a href="https://qmplus.qmul.ac.uk/course/view.php?id=741"> my website </a></p>
   
-<img src="http://clipart-library.com/clipart/qTBoEn8Bc.html" />
+<img src="http://www.childteaching.com/wp-content/uploads/2015/07/child-teaching6-9.jpg" />
 <table>
   <tr>
     <th>Enlish</th>
