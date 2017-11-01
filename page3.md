@@ -8,5 +8,5 @@
 <h1>Welcome to Page 3</h1>
 
 <P>
-  <img src="img/CAt.jpg" />
+  <img src="img/CAt.jpg" style="width:50%;" />
   </p>
