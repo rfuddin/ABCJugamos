@@ -35,13 +35,12 @@
 <p> You can learn different langauge in this link <a href="https://www.duolingo.com/"> my website </a></p>
   
 <img src="http://www.childteaching.com/wp-content/uploads/2015/07/child-teaching6-9.jpg" />
+ 
  </table> 
-  
   <tr>
     <th>Enlish</th>
     <th>Spanish</th>
     <th>German</th>
-
 
 
 </tr>
