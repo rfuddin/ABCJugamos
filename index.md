@@ -37,13 +37,13 @@
 <table>
   <tr>
     <th>Enlish</th>
-    <th>French</th>
+    <th>Spanish</th>
     <th>German</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Apple</td>
+    <td>Manzana</td>
+    <td>Apfel</td>
   </tr>
   <tr>
     
