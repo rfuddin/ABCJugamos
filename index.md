@@ -31,7 +31,7 @@
   <hr>
 
 <h3>Links and Images </h3>
-<p> First I am going to link to <a href="https://qmplus.qmul.ac.uk/course/view.php?id=741"> my website </a></p>
+<p> First I am going to link to <a href="https://www.duolingo.com/"> my website </a></p>
   
 <img src="http://www.childteaching.com/wp-content/uploads/2015/07/child-teaching6-9.jpg" />
 <table>
