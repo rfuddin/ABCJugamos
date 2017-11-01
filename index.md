@@ -12,7 +12,7 @@
 <p> This is the first paragraph. It isn't very interesting. </h2>
 
 <hr>
-<h2>Learning Matrials </h2>
+<h2>Learning Materials </h2>
 <h3> Lists  </h3>
 <ol>
   <li>Item 1<li>
