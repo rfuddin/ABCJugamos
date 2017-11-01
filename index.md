@@ -7,7 +7,7 @@
 
 <h1> Language Learning with Me</h1>
 <h2> Section One: What you can learn here. </h2>
-<p> This is the first paragraph. It isn't very interesting. </h2>
+<p> We are going to learn different langauges. </h2>
 
 <hr>
 <h2>Learning Materials </h2>
@@ -16,10 +16,12 @@
  <li>Item 2<li>   
  
 
-<h4>UnOrdered lists hve bullets<h4>
+<h4>We can learn<h4>
 <ul>
-  <li>Item 1<li>
-  <li>Item 2</li>
+  <li>Spanish<li>
+  <li>French</li>
+  <li>English</li>
+  <li>German</li>
   </ul>
   
   <hr>
