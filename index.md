@@ -17,15 +17,8 @@
  <li>Grammar<li> 
 <li>Reading<li>    
 
-<h4>We can learn<h4>
-<ul>
-  <li>Spanish<li>
-  <li>French</li>
-  <li>English</li>
-  <li>German</li>
-  </ul>
-  
-  <hr>
+
+
   
   
   <h3>Test styles </h3>
