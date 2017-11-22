@@ -5,15 +5,17 @@
 
 <h1> Language Learning with Me</h1>
 <h2> Section One: What you can learn in english. </h2>
-<p> Grammar, Listening, Reading & Writing. </h2>
+<p> Grammar, Listening, Reading & Writing. 
 
 <iframe src="https://archive.org/embed/AUDIO1_20171122" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <hr>
 <h2>Learning Materials </h2>
 <h3> Lists  </h3>
- <li>Item 1<li>
- <li>Item 2<li>   
- 
+
+ <li>Listening<li>
+ <li>Spelling<li>   
+ <li>Grammar<li> 
+<li>Reading<li>    
 
 <h4>We can learn<h4>
 <ul>
