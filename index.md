@@ -30,21 +30,7 @@
   
 <img src="http://www.childteaching.com/wp-content/uploads/2015/07/child-teaching6-9.jpg" />
  
- </table> 
-  <tr>
-    <th>Enlish</th>
-    <th>Spanish</th>
-    <th>German</th>
-
-
-</tr>
-  <tr>
-    <td>Apple</td>
-    <td>Manzana</td>
-    <td>Apfel</td>
-  </tr>
-  <tr>
-    
+ 
   
 
 
