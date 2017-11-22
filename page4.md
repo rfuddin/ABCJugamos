@@ -6,7 +6,7 @@
   <li>Page4</li>
 </ul>
 
-<h1>Welcome to Page 4</h1>
+<h1>Vocabulary Page</h1>
 
 
 
