@@ -8,7 +8,7 @@
 <h1>Grammar Page</h1>
 
 <P>
-  <img src="img/CAt.jpg" style="width:50%;" />
+
   </p>
 
 
