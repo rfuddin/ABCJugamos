@@ -18,8 +18,15 @@
 
 
   
-  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
   <h3>Learning English </h3>
+  
   <p>English is one the most spoken language in this world. This website offers variety activity and games that will help empower the child language by learning new vocabulary, learning songs, reading stories and playing grammar games to help improve their skills.   </p>
   
   <hr>
