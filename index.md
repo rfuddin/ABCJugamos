@@ -7,6 +7,9 @@
 <h2>  What you are going to learn. </h2>
 
 <iframe src="https://archive.org/embed/AUDIO1_20171122" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+http://tinyurl.com/yd73jjtd
+
 <hr>
 <h2>Learning Materials </h2>
 
