@@ -7,7 +7,7 @@
 
 
 
-<img src="/rfuddin/ABCLearnEnglishwithme/blob/master/img/welcome.jpg?raw=true" alt="welcome.jpg">
+<img src="http://www.childteaching.com/wp-content/uploads/2015/07/child-teaching6-9.jpg" />
 
 
  
