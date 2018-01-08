@@ -6,7 +6,7 @@
 <html>
 <body>
 
-<h1 style="font-family:verdana;">What you are going to learn/h1>
+<h1 style="font-family:verdana;">What you are going to learn /h1>
 <p style="font-family:courier;">.English is one the most spoken language in this world. This website offers variety activity and games that will help empower the child language by learning new vocabulary, learning songs, reading stories and playing grammar games to help improve their skills.</p>
 
 </body>
