@@ -4,6 +4,7 @@
   <li><a href="index.html">Home</a></li>
   <li><a href="page2.html">Page2</a></li>
   <li>page3</li>
+  </ul>
 
 <html>
 <body>
