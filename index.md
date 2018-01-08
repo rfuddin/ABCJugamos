@@ -12,8 +12,7 @@
 
  
 <iframe src="https://archive.org/embed/AUDIO1_20171122" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-   <p>English is one the most spoken language in this world. This website offers variety activity and games that will help empower the child language by learning new vocabulary, learning songs, reading stories and playing grammar games to help improve their skills.   </p>
+<p>English is one the most spoken language in this world. This website offers variety activity and games that will help empower the child language by learning new vocabulary, learning songs, reading stories and playing grammar games to help improve their skills.   </p>
 
 <hr>
 <h2>Learning Materials </h2>
