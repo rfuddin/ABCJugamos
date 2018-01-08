@@ -5,6 +5,7 @@
 
 <h1> What you are going to learn</h1>
 
+<img src="http://clipart-library.com/img1/1408703.jpg" />
 
 <img src="http://www.childteaching.com/wp-content/uploads/2015/07/child-teaching6-9.jpg" />
 
