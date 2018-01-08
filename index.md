@@ -6,7 +6,6 @@
 <h1> What you are going to learn</h1>
 
 
-
 <img src="http://www.childteaching.com/wp-content/uploads/2015/07/child-teaching6-9.jpg" />
 
 <iframe src="https://archive.org/embed/AUDIO1_20171122" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
