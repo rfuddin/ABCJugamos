@@ -8,7 +8,7 @@
 
 <h1 style="font-family:Cooper Black;">What you are going to learn
 
-<p><font face="Cooper Black" color="red">What you are going to learn!</font></p>
+<p><font-family=Cooper Black; color="red">What you are going to learn!</font></p>
 
 <p style="font-family:Bradley Hand ITC;">English is one the most spoken language in this world. This website offers variety activity and games that will help empower the child language by learning new vocabulary, learning songs, reading stories and playing grammar games to help improve their skills.</p>
 
