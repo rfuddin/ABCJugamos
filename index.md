@@ -5,7 +5,7 @@
 
 <h1> What you are going to learn</h1>
 
-<img src="http://http://vignette2.wikia.nocookie.net/bravefrontierglobal/images/4/42/Welcome.png/revision/latest?cb=20141005094710.jpg" />
+<img src="http://http://vignette2.wikia.nocookie.net/bravefrontierglobal/images/4/42/Welcome.jpg" />
 
 
 <iframe src="https://archive.org/embed/AUDIO1_20171122" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
