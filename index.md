@@ -20,6 +20,7 @@
  <li>vocabulary 
 <li>Reading   
 
+<img src="http://ABCLearnEnglishwithme/img/welcome.jpg" />
 
 
   
