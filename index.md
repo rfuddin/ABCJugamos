@@ -11,7 +11,7 @@
 
 
 <iframe src="https://archive.org/embed/AUDIO1_20171122" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>; <img src="http://www.jitsin-ind.edu.my/moodle/pluginfile.php/3288/course/section/665/wwo8_welcome.png" />
-<img src="http://clipart-library.com/img1/1408703.jpg" />
+
 
 
 <hr>
