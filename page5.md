@@ -13,4 +13,12 @@
 
 <h1 style="font-family:Cooper Black;"> Reading <h1>
 
-<p style="font-family:Times New Roman;">Bittoo was a very naughty boy. One day he sat atop a tree with his catapult. Just then, he saw the priest of the village temple passing by. His bald head was shining in the sun. Bittoo could not resist himself, so he took a stone and aimed it at the priest's head. The stone struck the priest's head causing a wound that started bleeding. The priest cried out in pain. He looked around and soon spotted Bittoo on the tree with the catapult in his hand. He called Bittoo down and said, "Your aim is excellent, son. Tomorrow the king will pass this way. You must hit a stone to his head. He will reward you for the excellent aim.Next day when the king passed by, Bittoo hit a stone on his forehead. As the king started bleeding, he sent his guards to get Bittoo. The king ordered that Bittoo be whipped a hundred times in public. Bittoo cried for forgiveness. The king forgave him when he promised not to be naughty anymore.</p>
+<iframe src="https://h5p.org/h5p/embed/165904" width="1090" height="879" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<iframe src="https://h5p.org/h5p/embed/165906" width="1090" height="770" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<iframe src="https://h5p.org/h5p/embed/165907" width="1090" height="1253" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<iframe src="https://h5p.org/h5p/embed/165909" width="1090" height="839" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<iframe src="https://h5p.org/h5p/embed/165911" width="1090" height="872" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
