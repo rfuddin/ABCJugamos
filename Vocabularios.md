@@ -12,7 +12,7 @@
 <h1 style="font-family:Cooper Black;"> Vocabularios <h1>
 
 
-
+<body background="rainbow.jpg">
 
 
 
