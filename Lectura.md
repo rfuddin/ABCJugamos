@@ -4,7 +4,7 @@
   <li><a href="index.html">Home</a></li>
   <li><a href="Escucha.html">Escucha</a></li>
   <li><a href="Gramatica.html">Gramatica</a></li>
-  <li><a href="Vocabularios.html">Lectura</a></li>
+  <li><a href="Vocabularios.html">Vocabulario</a></li>
   <li>Lectura</li>
 </ul>
 
