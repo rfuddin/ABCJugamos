@@ -4,13 +4,12 @@
 </ul>
 <html>
 <body>
-<h3><u><font face="courier new, courier, monospace">&nbsp;<font size="7"> <center>Aprendemos Jugando</font></font></u></center>>
+<h3><u><font face="courier new, courier, monospace">&nbsp;<font size="7"> <center>Aprendemos Jugando</font></font></u></center>
+
 <body background="rainbow.jpg">
-  
-<p style="font-family:Bradley Hand ITC;">English is one the most spoken language in this world. This website offers variety activity and games that will help empower the child language by learning new vocabulary, learning songs, reading stories and playing grammar games to help improve their skills.</p>
 
 
-<img src="http://www.jitsin-ind.edu.my/moodle/pluginfile.php/3288/course/section/665/wwo8_welcome.png" />
+<img src="https://vignette.wikia.nocookie.net/eswikia/images/b/bf/Bienvenidos.png/revision/latest/scale-to-width-down/640?cb=20160307052617" />
 
 <iframe src="https://h5p.org/h5p/embed/165866" width="1090" height="796" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
