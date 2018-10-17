@@ -2,16 +2,16 @@
 
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
-  <li><a href="Listening.html">Page2</a></li>
-  <li><a href="Grammar.html">Page3</a></li>
-  <li><a href="Vocabulary.html">Page4</a></li>
-  <li>Reading</li>
+  <li><a href="Escucha.html">Page2</a></li>
+  <li><a href="Gramatica.html">Page3</a></li>
+  <li><a href="Vocabularios.html">Page4</a></li>
+  <li>Lectura</li>
 </ul>
 
 <html>
 <body>
 
-<h1 style="font-family:Cooper Black;"> Reading <h1>
+<h1 style="font-family:Cooper Black;"> Aprendemos leyendo <h1>
 
 
 
