@@ -11,6 +11,8 @@
 
 <h1 style="font-family:Cooper Black;"> Gramatica <h1>
 
+<body background="rainbow.jpg">
+
 
 
 
