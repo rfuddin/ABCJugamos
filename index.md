@@ -9,7 +9,7 @@
 <body background="rainbow.jpg">
 
 
-<img src="https://kinder3binamc.files.wordpress.com/2016/08/bienvenida.jpg" />
+<img src="https://kinder3binamc.files.wordpress.com/2016/08/bienvenida.jpg" />;</center>
 
 
 
