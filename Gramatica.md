@@ -2,7 +2,7 @@
 
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
-  <li><a href="Eschuca.html">Escuchar</a></li>
+  <li><a href="Eschuca.html">Escucha</a></li>
   <li>Gramatica</li>
   </ul>
 
