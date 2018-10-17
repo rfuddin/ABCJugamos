@@ -5,6 +5,7 @@
 <html>
 <body>
 <h1 style="font-family:Cooper Black;">Que vais aprender</h1>
+<body background="rainbow.png">
   
 <p style="font-family:Bradley Hand ITC;">English is one the most spoken language in this world. This website offers variety activity and games that will help empower the child language by learning new vocabulary, learning songs, reading stories and playing grammar games to help improve their skills.</p>
 
