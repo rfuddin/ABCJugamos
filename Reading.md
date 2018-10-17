@@ -2,9 +2,9 @@
 
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
-  <li><a href="Escucha.html">Page2</a></li>
-  <li><a href="Gramatica.html">Page3</a></li>
-  <li><a href="Vocabularios.html">Page4</a></li>
+  <li><a href="Escucha.html">Escucha</a></li>
+  <li><a href="Gramatica.html">Gramatica</a></li>
+  <li><a href="Vocabularios.html">Lectura</a></li>
   <li>Lectura</li>
 </ul>
 
